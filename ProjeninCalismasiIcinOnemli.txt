@@ -1,0 +1,1 @@
+Bu proje Dev-C++ derleyicisinde yapılmıştır. graphics.h kütüphanesi kurularak çalıştırılabilir ancak.
